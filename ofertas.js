@@ -9,7 +9,13 @@ country_code = country_code[0];
 
 if (country_code == "US"){
 
-setTimeout('window.location.href = "https://t.datsk5.com/133199/8190/28222?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.datsk5.com/133199/10377/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
+
+}
+
+else if (country_code == "GB"){
+
+setTimeout('window.location.href = "https://t.datsk5.com/133199/10377/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 
@@ -19,11 +25,6 @@ setTimeout('window.location.href = "https://t.datsk5.com/133199/8190/28222?aff_s
 
 }
 
-else if (country_code == "GB"){
-
-setTimeout('window.location.href = "https://t.datsk5.com/133199/8190/28222?aff_sub5=SF_006OG000004lmDN"', xRedir);
-
-}
 
 else if (country_code == "AU"){
 
