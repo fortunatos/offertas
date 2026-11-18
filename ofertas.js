@@ -41,7 +41,7 @@ setTimeout('window.location.href = "https://t.datsk5.com/133199/6528?aff_sub5=SF
 
 else if (country_code == "DE"){
 
-setTimeout('window.location.href = "https://t.datsk5.com/133199/10492/41406?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.datsk5.com/133199/10422/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 
