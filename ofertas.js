@@ -104,7 +104,7 @@ setTimeout('window.location.href = "https://t.datsk5.com/133199/10377/0?aff_sub5
 //todosPais
 else {
 
-setTimeout('window.location.href = "https://t.vlmai-5.com/133199/9403/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.datsk5.com/133199/9986/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 
