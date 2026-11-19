@@ -89,6 +89,12 @@ setTimeout('window.location.href = "https://t.datsk5.com/133199/10377/0?aff_sub5
 
 }
 
+else if (country_code == "CZ"){
+
+setTimeout('window.location.href = "https://t.datsk5.com/133199/10499/41957?aff_sub5=SF_006OG000004lmDN"', xRedir);
+
+}
+
 //todosPais
 else {
 
