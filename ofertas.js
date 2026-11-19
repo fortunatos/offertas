@@ -19,12 +19,6 @@ setTimeout('window.location.href = "https://t.datsk5.com/133199/10377/0?aff_sub5
 
 }
 
-else if (country_code == "CA"){
-
-setTimeout('window.location.href = "https://t.datsk5.com/133199/8190/28222?aff_sub5=SF_006OG000004lmDN"', xRedir);
-
-}
-
 
 else if (country_code == "AU"){
 
@@ -32,12 +26,6 @@ setTimeout('window.location.href = "https://t.datsk5.com/133199/8570/34981?aff_s
 
 }
 
-
-else if (country_code == "ES"){
-
-setTimeout('window.location.href = "https://t.datsk5.com/133199/6528?aff_sub5=SF_006OG000004lmDN"', xRedir);
-
-}
 
 else if (country_code == "DE"){
 
