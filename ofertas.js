@@ -34,42 +34,42 @@ setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub
 
 else if (country_code == "DK") {
 
-    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 else if (country_code == "FR") {
 
-    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 else if (country_code == "IS") {
 
-    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 else if (country_code == "IE") {
 
-    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 else if (country_code == "IT") {
 
-    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 else if (country_code == "NO") {
 
-    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 else if (country_code == "PR") {
 
-    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 else if (country_code == "NZ") {
 
-    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 
