@@ -9,23 +9,69 @@ country_code = country_code[0];
 
 if (country_code == "US"){
 
-setTimeout('window.location.href = "https://t.datsk5.com/133199/10377/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 
 else if (country_code == "GB"){
 
-setTimeout('window.location.href = "https://t.datsk5.com/133199/10377/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 
 
 else if (country_code == "AU"){
 
-setTimeout('window.location.href = "https://t.datsk5.com/133199/8570/34981?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 
+else if (country_code == "CA"){
+
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+
+}
+
+else if (country_code == "DK") {
+
+    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+
+}
+else if (country_code == "FR") {
+
+    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+
+}
+else if (country_code == "IS") {
+
+    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+
+}
+else if (country_code == "IE") {
+
+    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+
+}
+else if (country_code == "IT") {
+
+    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+
+}
+else if (country_code == "NO") {
+
+    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+
+}
+else if (country_code == "PR") {
+
+    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+
+}
+else if (country_code == "NZ") {
+
+    setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
+
+}
 
 else if (country_code == "DE"){
 
@@ -83,12 +129,6 @@ setTimeout('window.location.href = "https://t.datsk5.com/133199/10498/0?aff_sub5
 
 }
 
-else if (country_code == "IE"){
-
-setTimeout('window.location.href = "https://t.datsk5.com/133199/10377/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
-
-}
-
 else if (country_code == "CZ"){
 
 setTimeout('window.location.href = "https://t.datsk5.com/133199/10499/41957?aff_sub5=SF_006OG000004lmDN"', xRedir);
@@ -98,7 +138,7 @@ setTimeout('window.location.href = "https://t.datsk5.com/133199/10499/41957?aff_
 //todosPais
 else {
 
-setTimeout('window.location.href = "https://t.datsk5.com/133199/9986/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/3664/0?target=domainredirects&aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 
