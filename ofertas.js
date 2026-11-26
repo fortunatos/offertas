@@ -89,7 +89,7 @@ else if (country_code == "CH"){
 //todosPais
 else {
 
-setTimeout('window.location.href = "https://t.camsk5.com/133199/3664/0?target=domainredirects&aff_sub5=SF_006OG000004lmDN"', xRedir);
+setTimeout('window.location.href = "https://t.othsk5.com/133199/10405/0?aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
 
